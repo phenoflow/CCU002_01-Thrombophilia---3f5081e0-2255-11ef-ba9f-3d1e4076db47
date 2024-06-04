@@ -1,0 +1,42 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_01-thrombophilia-acquired---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-thrombophilia---primary.py
+inputModule4:
+  class: File
+  path: python/vascular-ccu002_01-thrombophilia---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-thrombophilia-therapy---primary.py
+inputModule6:
+  class: File
+  path: python/antiphospholipid-ccu002_01-thrombophilia---primary.py
+inputModule7:
+  class: File
+  path: python/thrombophilia---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-thrombophilia-deficiency---primary.py
+inputModule9:
+  class: File
+  path: python/primary-ccu002_01-thrombophilia---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-thrombophilia-leiden---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-thrombophilia-activated---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-thrombophilia-mutation---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
